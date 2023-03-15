@@ -21,9 +21,13 @@
 
 # Создал и подготовил:
 [![Alberto Genuardy StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16636006&theme=dark)](https://stackoverflow.com/users/16636006/alberto-genuardy)
-Альберто Дженуарди
-Ученик 9 "М" класса
-МАОУ Лицея 35
-Город := Калининград
+<div>
+  <a>
+     Альберто Дженуарди </br>
+     Ученик 9 "М" класса </br>
+     МАОУ Лицея 35 </br>
+     Город := Калининград </br>
+  </a>
+</div>
 #
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
