@@ -16,8 +16,10 @@
 
 В заключение, нейронные сети стали неотъемлемой частью нашей повседневной жизни. Они используются в самых разных приложениях, от распознавания изображений и речи до систем обнаружения мошенничества и рекомендаций. Поскольку технология продолжает развиваться, мы можем ожидать еще более инновационных применений нейронных сетей в будущем.
 
-# Информация
+# Информация:
 Весть текст расположен в project.docx
 
+# Создал и подготовил:
 [![Alberto Genuardy StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16636006&theme=dark)](https://stackoverflow.com/users/16636006/alberto-genuardy)
+#
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
