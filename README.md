@@ -21,6 +21,7 @@
 
 # Создал и подготовил:
 [![Alberto Genuardy StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16636006&theme=dark)](https://stackoverflow.com/users/16636006/alberto-genuardy)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 <div>
   <a>
      Альберто Дженуарди </br>
@@ -29,5 +30,5 @@
      Город := Калининград </br>
   </a>
 </div>
-#
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+
+
