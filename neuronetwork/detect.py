@@ -1,11 +1,11 @@
-from imutils.video import VideoStream
-import numpy as np
-import sys
 import argparse
 import imutils
 import time
 import cv2
+from imutils.video import VideoStream
 from urllib.request import urlopen
+import numpy as np
+import sys
 
 
 host = 'http://192.168.0.101:8080/'
