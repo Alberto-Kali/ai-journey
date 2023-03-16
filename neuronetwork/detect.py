@@ -12,11 +12,11 @@ host = 'http://192.168.0.101:8080/'
 url = host + 'image.jpg'
 
 ap = argparse.ArgumentParser()
-ap.add_argument("-p", required=True,
+ap.add_argument("-p", type=str, default="./txtprotocol.prototxt.txt",
 	help="prototxt файл")
-ap.add_argument("-m", required=True,
+ap.add_argument("-m", type=str, default="./model.caffemodel",
 	help="файл модели")
-ap.add_argument("-s", required=True, 
+ap.add_argument("-s", type=str, default="webcam", 
 	help="Источник видео (webcam/host)")
 ap.add_argument("-c", "--confidence", type=float, default=0.2,
 	help="Минимальная вероятность фильтрации слабых обнаружений")
